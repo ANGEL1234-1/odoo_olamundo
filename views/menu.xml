@@ -1,0 +1,6 @@
+<odoo>
+    <data>
+        <menuitem id="main_odoo_olamundo" name="Tonto el que lo lea"/>
+        <menuitem id="menu_olamundo" name="Lo leiste jaja" parent="main_odoo_olamundo" action="olamundo_list_action"/>
+    </data>
+</odoo>
